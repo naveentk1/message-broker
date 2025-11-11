@@ -1,7 +1,7 @@
 # message-broker
 # Message Broker - Pub/Sub System
 
-A lightweight, thread-safe message broker implementation in C++ demonstrating the publish-subscribe pattern.
+message broker implementation in C++ demonstrating the publish-subscribe pattern.
 
 ## Overview
 
